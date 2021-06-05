@@ -16,5 +16,6 @@
 
 - Module Federation
 - Shadow DOM
+- Apollo GraphQL federation
 
 
