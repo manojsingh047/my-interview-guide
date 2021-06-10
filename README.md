@@ -1,11 +1,10 @@
 # my-interview-guide - frontend
 
-## JS Concepts
-
+## Brwser and JS Concepts
 - Run over this amazing youtube series to quickly brush-up JS concepts - https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+- For browser and JS - https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9
 
 ## JS Polyfills :
-
 - .bind
 - promise
 
@@ -18,7 +17,6 @@
 
 
 ## Advanced Topics:
-
 - Module Federation
 - Shadow DOM
 - Apollo GraphQL federation
