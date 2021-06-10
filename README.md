@@ -1,6 +1,11 @@
 # my-interview-guide - frontend
 
+## JS Concepts
+
+- Run over this amazing youtube series to quickly brush-up JS concepts - https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+
 ## JS Polyfills :
+
 - .bind
 - promise
 
