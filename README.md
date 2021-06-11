@@ -13,6 +13,8 @@
 
 ## Authentication
 ```to be added```
+- SAML, OIDC
+- session, jwt
 
 ## Design guide:
 - general guide - https://www.youtube.com/watch?v=5llb2fGKl9s&t=2137s&ab_channel=JSerJSer
