@@ -8,6 +8,12 @@
 - .bind
 - promise
 
+## Security and vulnerability
+```to be added```
+
+## Authentication
+```to be added```
+
 ## Design guide:
 - general guide - https://www.youtube.com/watch?v=5llb2fGKl9s&t=2137s&ab_channel=JSerJSer
 - netflix - https://www.youtube.com/watch?v=Tu-hZ6lqNtY&t=23s
