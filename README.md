@@ -25,6 +25,7 @@
 
 
 ## Advanced Topics:
+- Critical rendering path
 - Module Federation
 - Shadow DOM
 - Apollo GraphQL federation
