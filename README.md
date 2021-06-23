@@ -11,6 +11,12 @@
 ## Security and vulnerability
 ```to be added```
 
+## Accessibility
+```to be added```
+
+## Performance and Optimizations
+```to be added```
+
 ## Authentication
 ```to be added```
 - SAML, OIDC
@@ -29,5 +35,6 @@
 - Module Federation
 - Shadow DOM
 - Apollo GraphQL federation
+- Error logging
 
 
