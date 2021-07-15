@@ -9,13 +9,14 @@
 - promise
 
 ## Security and vulnerability
-```to be added```
+- https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534
 
 ## Accessibility
 ```to be added```
 
 ## Performance and Optimizations
-```to be added```
+- https://medium.com/@manojsingh047/light-weight-websites-98a79249035
+- https://www.youtube.com/watch?v=k-A2VfuUROg&ab_channel=GoogleChromeDevelopers
 
 ## Authentication
 ```to be added```
