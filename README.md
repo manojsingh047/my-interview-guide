@@ -6,7 +6,7 @@
 
 ## JS Polyfills :
 - .bind
-- promise
+- promise - https://medium.com/@manojsingh047/polyfill-for-javascript-promise-81053b284e37
 
 ## Security and vulnerability
 - https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534
