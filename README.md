@@ -1,6 +1,6 @@
 # my-interview-guide - frontend
 
-## Brwser and JS Concepts
+## Browser and JS Concepts
 - Run over this amazing youtube series to quickly brush-up JS concepts - https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 - For browser and JS - https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9
 
@@ -30,6 +30,8 @@
 - messenger - https://www.youtube.com/watch?v=utWopFyY5cE&ab_channel=JSerJSer
 - progress bar - https://www.youtube.com/watch?v=21ZgaFSRc_4&ab_channel=JSer
 
+## Coding Principles
+- SOLID in JS - https://www.youtube.com/watch?v=UQqY3_6Epbg&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=1&ab_channel=WebDevSimplified
 
 ## Advanced Topics:
 - Critical rendering path
