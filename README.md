@@ -33,6 +33,9 @@
 ## Coding Principles
 - SOLID in JS - https://www.youtube.com/watch?v=UQqY3_6Epbg&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=1&ab_channel=WebDevSimplified
 
+## Design Patterns
+- Factory, Builder - https://www.youtube.com/watch?v=-1YhP5IOBCI&t=549s&ab_channel=JackHerrington
+
 ## Advanced Topics:
 - Critical rendering path
 - Module Federation
