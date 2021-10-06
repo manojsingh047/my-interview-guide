@@ -29,6 +29,14 @@
 - instagram - https://www.youtube.com/watch?v=LCnkSLRJRwM&ab_channel=JSer
 - messenger - https://www.youtube.com/watch?v=utWopFyY5cE&ab_channel=JSerJSer
 - progress bar - https://www.youtube.com/watch?v=21ZgaFSRc_4&ab_channel=JSer
+- youtube - https://www.youtube.com/watch?v=x9NgcwwFp7s&list=WL&index=3&t=2324s&ab_channel=WebDevInterview
+
+    #Common Patterns
+    - Functional / Non-Functional requirements
+    - Screens for the functional requirements
+    - Data entities using typescript types notation
+    - Api design (including all meta data like headers etc)
+
 
 ## Coding Principles
 - SOLID in JS - https://www.youtube.com/watch?v=UQqY3_6Epbg&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=1&ab_channel=WebDevSimplified
