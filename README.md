@@ -5,7 +5,8 @@
 - For browser and JS - https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9
 
 ## JS Polyfills :
-- .bind
+- bind, apply, call
+- filter, map, reduce
 - promise - https://medium.com/@manojsingh047/polyfill-for-javascript-promise-81053b284e37
 
 ## Security and vulnerability
