@@ -32,10 +32,17 @@
 - progress bar - https://www.youtube.com/watch?v=21ZgaFSRc_4&ab_channel=JSer
 - youtube - https://www.youtube.com/watch?v=x9NgcwwFp7s&list=WL&index=3&t=2324s&ab_channel=WebDevInterview
 
-    #Common Patterns
-    - Functional / Non-Functional requirements
-    - Screens for the functional requirements
+    #Common Patterns (F N D A S) 
+    - Functional (Features)
+    - Non-Functional requirements
+        1. Optimizations
+        2. Good UX
+        3. Localization
+        4. Analytics - 
+        5. Accessibility
+
     - Data entities using typescript types notation
+    - Screens for the functional requirements
     - Api design (including all meta data like headers etc)
 
 
