@@ -19,6 +19,9 @@
 - https://medium.com/@manojsingh047/light-weight-websites-98a79249035
 - https://www.youtube.com/watch?v=k-A2VfuUROg&ab_channel=GoogleChromeDevelopers
 
+## Detecting Memory Leaks
+- https://www.youtube.com/watch?v=YDU_3WdfkxA&ab_channel=GoogleChromeDevelopers
+
 ## Authentication
 ```to be added```
 - SAML, OIDC
