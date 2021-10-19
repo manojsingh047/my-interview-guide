@@ -51,6 +51,7 @@
 
 ## Design Patterns
 - Factory, Builder - https://www.youtube.com/watch?v=-1YhP5IOBCI&t=549s&ab_channel=JackHerrington
+- Visitor, Iterator - https://www.youtube.com/watch?v=SZ2kAkMdAZE&ab_channel=JackHerrington
 
 ## Advanced Topics:
 - Critical rendering path
