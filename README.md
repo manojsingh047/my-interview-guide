@@ -18,6 +18,7 @@
 ## Performance and Optimizations
 - https://medium.com/@manojsingh047/light-weight-websites-98a79249035
 - https://www.youtube.com/watch?v=k-A2VfuUROg&ab_channel=GoogleChromeDevelopers
+- https://bitsofco.de/web-performance-metrics-cheatsheet/
 
 ## Detecting Memory Leaks
 - https://www.youtube.com/watch?v=YDU_3WdfkxA&ab_channel=GoogleChromeDevelopers
