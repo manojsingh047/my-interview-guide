@@ -35,20 +35,21 @@
 - messenger - https://www.youtube.com/watch?v=utWopFyY5cE&ab_channel=JSerJSer
 - progress bar - https://www.youtube.com/watch?v=21ZgaFSRc_4&ab_channel=JSer
 - youtube - https://www.youtube.com/watch?v=x9NgcwwFp7s&list=WL&index=3&t=2324s&ab_channel=WebDevInterview
-
-    #Common Patterns (F N D A S) 
+- chat app - https://www.youtube.com/watch?v=LEaiGjffLEs&ab_channel=Front-EndEngineer
+  
+    #Common Patterns (F N D A C) 
     - Functional (Features)
+    - Component Architecture (Screens for the functional requirements) - tree of components hierarchy can be drawn and create simple box model  
+    - Api design (including all meta data like headers etc)
+        1. List down all the REST endpoints with HTTP methods, and request payload
+    - Data entities using typescript types notation
     - Non-Functional requirements
         1. Optimizations
         2. Good UX
         3. Localization
-        4. Analytics - 
+        4. Analytics
         5. Accessibility
-
-    - Data entities using typescript types notation
-    - Screens for the functional requirements
-    - Api design (including all meta data like headers etc)
-
+        6. Security
 
 ## Coding Principles
 - SOLID in JS - https://www.youtube.com/watch?v=UQqY3_6Epbg&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=1&ab_channel=WebDevSimplified
