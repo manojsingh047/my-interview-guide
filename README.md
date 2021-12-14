@@ -19,6 +19,8 @@
 - https://medium.com/@manojsingh047/light-weight-websites-98a79249035
 - https://www.youtube.com/watch?v=k-A2VfuUROg&ab_channel=GoogleChromeDevelopers
 - https://bitsofco.de/web-performance-metrics-cheatsheet/
+- https://dev.to/wgolledge/an-overview-of-performance-in-javascript-applications-2obb
+- https://dev.to/wgolledge/an-overview-of-performance-in-javascript-applications-2obb
 
 ## Detecting Memory Leaks
 - https://www.youtube.com/watch?v=YDU_3WdfkxA&ab_channel=GoogleChromeDevelopers
