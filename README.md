@@ -46,7 +46,7 @@
         1. List down all the REST endpoints with HTTP methods, and request payload
     - Data entities using typescript types notation
     - Non-Functional requirements
-        1. Optimizations
+        1. Optimizations - Network perf, rendering perf, JS perf
         2. Good UX
         3. Localization
         4. Analytics
