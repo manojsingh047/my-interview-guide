@@ -20,7 +20,39 @@
 - https://www.youtube.com/watch?v=k-A2VfuUROg&ab_channel=GoogleChromeDevelopers
 - https://bitsofco.de/web-performance-metrics-cheatsheet/
 - https://dev.to/wgolledge/an-overview-of-performance-in-javascript-applications-2obb
-- https://dev.to/wgolledge/an-overview-of-performance-in-javascript-applications-2obb
+
+###
+Network Perf
+- Compression - Gzip, Brotli
+- Image / Video optimization 
+  - webp 
+  - video on loop instead of GIF
+  - serve images using srcset for different screen devices
+  - sprite images
+  
+- CDNs for static content
+- Adaptive serving based on user bandwidth
+- Caching - static content cahcing using http header SWR
+
+Bundling
+- Minification
+- Tree Shaking
+- Code splitting for lazy loading of JS
+
+JS Perf
+- async, defer attributes for scripts loading
+- heavy work on web worker
+
+Rendering Perf
+- Follow PRPL Pattern
+    - Push most critical content first - lazy loading, http2 push,
+    - Render the initial route asap 
+        - deliver critical css js inline
+        - avoid render blocking js
+        - SSR for initial load
+    - Preload / Prefetch the next set of content - Resource prioritization using rel=preload, prefetch tags
+    - Lazy load other route and content - use service worker
+
 
 ## Detecting Memory Leaks
 - https://www.youtube.com/watch?v=YDU_3WdfkxA&ab_channel=GoogleChromeDevelopers
