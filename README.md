@@ -42,7 +42,8 @@ Bundling
 JS Perf
 - async, defer attributes for scripts loading
 - heavy work on web worker
-
+- Critical rendering path
+  
 Rendering Perf
 - Follow PRPL Pattern
     - Push most critical content first - lazy loading, http2 push,
@@ -53,6 +54,7 @@ Rendering Perf
     - Preload / Prefetch the next set of content - Resource prioritization using rel=preload, prefetch tags
     - Lazy load other route and content - use service worker
 
+- RAIL Model
 
 ## Detecting Memory Leaks
 - https://www.youtube.com/watch?v=YDU_3WdfkxA&ab_channel=GoogleChromeDevelopers
