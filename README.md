@@ -14,6 +14,7 @@
 
 ## Accessibility
 -https://www.youtube.com/watch?v=jCLhYRRNF2E&list=WL&index=2&ab_channel=ReactConferencesbyGitNation
+(HTML5 Semantic elements for screen readers, Keyboard navigation for the app, color combination especially saturation level, drag and drop using keyboard)
 
 ## Performance and Optimizations
 - https://medium.com/@manojsingh047/light-weight-websites-98a79249035
