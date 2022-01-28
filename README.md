@@ -13,7 +13,7 @@
 - https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534
 
 ## Accessibility
-```to be added```
+-https://www.youtube.com/watch?v=jCLhYRRNF2E&list=WL&index=2&ab_channel=ReactConferencesbyGitNation
 
 ## Performance and Optimizations
 - https://medium.com/@manojsingh047/light-weight-websites-98a79249035
