@@ -43,10 +43,10 @@ Bundling
 JS Perf
 - async, defer attributes for scripts loading
 - heavy work on web worker
-- Critical rendering path
   
 Rendering Perf
-- Follow PRPL Pattern
+- Critical rendering path
+- Follow PRPL Pattern for faster FCP
     - Push most critical content first - lazy loading, http2 push,
     - Render the initial route asap 
         - deliver critical css js inline
@@ -84,9 +84,14 @@ Rendering Perf
         1. Optimizations - Network perf, rendering perf, JS perf
         2. Good UX
         3. Localization
-        4. Analytics
+        4. Logging 
         5. Accessibility
-        6. Security
+        6. Authentication / Authorization
+        7. PWA
+        8. Security
+        9. CI / CD
+        10. Analytics
+
 
 ## Coding Principles
 - SOLID in JS - https://www.youtube.com/watch?v=UQqY3_6Epbg&list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9&index=1&ab_channel=WebDevSimplified
