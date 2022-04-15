@@ -99,7 +99,8 @@ Rendering Perf
 ## Design Patterns
 - Factory, Builder - https://www.youtube.com/watch?v=-1YhP5IOBCI&t=549s&ab_channel=JackHerrington
 - Visitor, Iterator - https://www.youtube.com/watch?v=SZ2kAkMdAZE&ab_channel=JackHerrington
-
+- State Pattern - https://www.youtube.com/watch?v=yZt7mUVDijU
+ 
 ## Advanced Topics:
 - Critical rendering path
 - Module Federation
