@@ -100,6 +100,8 @@ Rendering Perf
 - Factory, Builder - https://www.youtube.com/watch?v=-1YhP5IOBCI&t=549s&ab_channel=JackHerrington
 - Visitor, Iterator - https://www.youtube.com/watch?v=SZ2kAkMdAZE&ab_channel=JackHerrington
 - State Pattern - https://www.youtube.com/watch?v=yZt7mUVDijU
+- Command & Memento Patterns - https://www.youtube.com/watch?v=H2kxc_ZrSPI&t=1149s&ab_channel=JackHerrington
+- Memento - https://www.youtube.com/watch?v=0eOMPadRNmI&list=WL&index=23&ab_channel=JohnLindquist
  
 ## Advanced Topics:
 - Critical rendering path
