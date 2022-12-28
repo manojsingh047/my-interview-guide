@@ -105,6 +105,7 @@ Rendering Perf
  
 ## Advanced Topics:
 - Critical rendering path
+- Streaming SSR - https://www.youtube.com/watch?v=o3JWb04DRIs
 - Module Federation
 - Shadow DOM
 - Apollo GraphQL federation
