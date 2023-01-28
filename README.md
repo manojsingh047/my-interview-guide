@@ -8,6 +8,8 @@
 - bind, apply, call
 - filter, map, reduce
 - promise - https://medium.com/@manojsingh047/polyfill-for-javascript-promise-81053b284e37
+- Run promises in sequence - https://gist.github.com/manojsingh047/b891472954ae276daa86f5a880b48a50
+  
 
 ## Security and vulnerability
 - https://medium.com/@manojsingh047/understanding-frontend-security-ff6585395534
