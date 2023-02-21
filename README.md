@@ -1,5 +1,7 @@
 # my-interview-guide - frontend
 
+Problem Solving - https://github.com/manojsingh047/DSnA/blob/master/patterns.md
+
 ## Browser and JS Concepts
 - Run over this amazing youtube series to quickly brush-up JS concepts - https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 - For browser and JS - https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9
