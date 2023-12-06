@@ -43,6 +43,8 @@ Bundling
 - Minification
 - Tree Shaking
 - Code splitting for lazy loading of JS
+- https://slides.com/lucianomammino/unbundling-the-javascript-module-bundler-dublinjs
+- https://www.youtube.com/watch?v=w8uxbpdjor0&ab_channel=DublinJS
 
 JS Perf
 - async, defer attributes for scripts loading
