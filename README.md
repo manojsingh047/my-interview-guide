@@ -3,7 +3,7 @@
 Problem Solving - https://github.com/manojsingh047/DSnA/blob/master/patterns.md
 
 ## Browser and JS Concepts
-- Run over this amazing youtube series to quickly brush-up JS concepts - https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+- Run over this youtube series to quickly brush-up JS concepts - https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 - For browser and JS - https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9
 
 ## JS Polyfills :
@@ -37,7 +37,7 @@ Network Perf
   
 - CDNs for static content
 - Adaptive serving based on user bandwidth
-- Caching - static content cahcing using http header SWR
+- Caching - static content caching using http header SWR
 
 Bundling
 - Minification
